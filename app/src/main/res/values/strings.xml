@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger</string>
+
+    <string name="name">Name</string>
+    <string name="info">Info</string>
+    <string name="data">Data</string>
+    <string name="action_settings">Settings</string>
+</resources>
